@@ -1,3 +1,3 @@
 # c-hash-tables
 
-DEPRECATED! Instead use https://github.com/afiskon/c-algorithms
+DEPRECATED! New version: https://github.com/afiskon/c-algorithms
